@@ -13,7 +13,7 @@
   * live-sass
   * ES7 React/Redux/React-Native/JS snippets
   * vetur (vue tooling for VS code) 
-
+  * git history 
 
 
 
