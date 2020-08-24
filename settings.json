@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Just Black",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 0,
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.wordWrap": "on",
+  "workbench.statusBar.visible": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.suggest.statusBar.visible": true
+}
