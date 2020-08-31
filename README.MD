@@ -15,6 +15,10 @@
   * vetur (vue tooling for VS code) 
   * git history 
   * vuetify-vscode
+  * simple-react-snippets
+  * react/redux/react-router snippets
+  * react-extension-pack
+  * useful-react-snippets
 
 
 
