@@ -1,5 +1,5 @@
 
-## VS-CODE settings 
+## extensions 
   * npm-intellisense
   * nur-just-black 
   * prettier
@@ -14,6 +14,7 @@
   * ES7 React/Redux/React-Native/JS snippets
   * vetur (vue tooling for VS code) 
   * git history 
+  * vuetify-vscode
 
 
 
