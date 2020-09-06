@@ -19,6 +19,8 @@
   * react/redux/react-router snippets
   * react-extension-pack
   * useful-react-snippets
+  * auto-rename-tag
+  * dotenv syntax 
 
 
 
