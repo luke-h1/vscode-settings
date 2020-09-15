@@ -21,7 +21,15 @@
   * useful-react-snippets
   * auto-rename-tag
   * dotenv syntax 
+  * robotframework
+  * RobotFramework Linter 
+  * Robotframework Debugger
+  * Robot Framework Intellisense
 
+
+## TODO: 
+  * automate all of this in the mac-catalina bash script 
+  * find extension in top righthand corner of a given vs code extension 
 
 
 
