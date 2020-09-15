@@ -4,7 +4,7 @@
   * nur-just-black 
   * prettier
   * eslint
-  * package-cost 
+  * import-cost 
   * path-intellisense
   * bracket-pair-colorizer
   * material-icon-theme 
@@ -26,10 +26,6 @@
   * Robotframework Debugger
   * Robot Framework Intellisense
 
-
-## TODO: 
-  * automate all of this in the mac-catalina bash script 
-  * find extension in top righthand corner of a given vs code extension 
 
 
 
