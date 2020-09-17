@@ -1,10 +1,10 @@
 
-## VS-CODE settings 
+## extensions 
   * npm-intellisense
   * nur-just-black 
   * prettier
   * eslint
-  * package-cost 
+  * import-cost 
   * path-intellisense
   * bracket-pair-colorizer
   * material-icon-theme 
@@ -17,6 +17,18 @@
   * TOML language support 
   * Even Better TOML 
   * Prettier TOML 
+  * vuetify-vscode
+  * simple-react-snippets
+  * react/redux/react-router snippets
+  * react-extension-pack
+  * useful-react-snippets
+  * auto-rename-tag
+  * dotenv syntax 
+  * robotframework
+  * RobotFramework Linter 
+  * Robotframework Debugger
+  * Robot Framework Intellisense
+
 
 
 
