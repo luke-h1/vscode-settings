@@ -14,7 +14,9 @@
   * ES7 React/Redux/React-Native/JS snippets
   * vetur (vue tooling for VS code) 
   * git history 
-
+  * TOML language support 
+  * Even Better TOML 
+  * Prettier TOML 
 
 
 
