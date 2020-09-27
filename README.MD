@@ -27,12 +27,13 @@
   * RobotFramework Linter 
   * Robotframework Debugger
   * Robot Framework Intellisense
+  * django
+  * python extension pack
+  * python 
 
 
 
 
 
-
-## THEMESE 
-  * tokyo-night (current theme) 
+## THEMES
   * nur-just-black 
