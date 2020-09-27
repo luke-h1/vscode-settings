@@ -1,7 +1,6 @@
 
 ## extensions 
   * npm-intellisense
-  * nur-just-black 
   * prettier
   * eslint
   * import-cost 
@@ -34,3 +33,6 @@
 
 
 
+## THEMESE 
+  * tokyo-night (current theme) 
+  * nur-just-black 
