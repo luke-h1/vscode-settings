@@ -30,6 +30,8 @@
   * django
   * python extension pack
   * python 
+  * jinja
+  * better jinja 
 
 
 
