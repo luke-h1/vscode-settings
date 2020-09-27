@@ -27,11 +27,8 @@
   * RobotFramework Linter 
   * Robotframework Debugger
   * Robot Framework Intellisense
-  * django
   * python extension pack
   * python 
-  * jinja
-  * better jinja 
 
 
 
