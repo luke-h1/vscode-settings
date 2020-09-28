@@ -35,4 +35,4 @@
 
 
 ## THEMES
-  * nur-just-black 
+  * enkia.tokyo-night
