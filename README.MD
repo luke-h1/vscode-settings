@@ -30,6 +30,7 @@
   * python extension pack
   * python 
   * styled-components intellisense / autocomplete
+  * TSLint 
 
 
 
