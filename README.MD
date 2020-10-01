@@ -29,6 +29,7 @@
   * Robot Framework Intellisense
   * python extension pack
   * python 
+  * styled-components intellisense / autocomplete
 
 
 
