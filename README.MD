@@ -31,6 +31,8 @@
   * python 
   * styled-components intellisense / autocomplete
   * TSLint 
+  * jest snippets
+  * jest fb extension
 
 
 
