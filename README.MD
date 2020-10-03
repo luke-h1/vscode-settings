@@ -33,6 +33,7 @@
   * TSLint 
   * jest snippets
   * jest fb extension
+  * tailwindcss intellisense / autocomplete
 
 
 
