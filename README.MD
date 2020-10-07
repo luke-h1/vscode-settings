@@ -33,7 +33,11 @@
   * TSLint 
   * jest snippets
   * jest fb extension
-  * tailwindcss intellisense / autocomplete
+  * tailwindcss intellisense / autocomplete 
+  * docker extension pack 
+  * php intellisense 
+  * php debug 
+  * php extension pack
 
 
 
