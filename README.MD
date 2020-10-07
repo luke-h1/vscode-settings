@@ -38,6 +38,8 @@
   * php intellisense 
   * php debug 
   * php extension pack
+  * brapifra.phpserver
+
 
 
 
