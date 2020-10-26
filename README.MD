@@ -40,8 +40,8 @@
   * php extension pack
   * brapifra.phpserver
 
-
-
+## add settings json 
+  * command + shift + p & "open settings.json"
 
 
 
