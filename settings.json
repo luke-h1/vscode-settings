@@ -1,6 +1,6 @@
 {
-    "workbench.colorTheme": "Just Black",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Tokyo Night",
     "window.zoomLevel": 0,
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
