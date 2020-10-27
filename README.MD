@@ -7,7 +7,6 @@
   * path-intellisense
   * bracket-pair-colorizer
   * material-icon-theme 
-  * liveserver
   * html-css-class-completion
   * live-sass
   * ES7 React/Redux/React-Native/JS snippets
@@ -35,13 +34,17 @@
   * jest fb extension
   * tailwindcss intellisense / autocomplete 
   * docker extension pack 
-  * php intellisense 
-  * php debug 
-  * php extension pack
-  * brapifra.phpserver
 
 ## add settings json 
   * command + shift + p & "open settings.json"
+
+
+## issues 
+  * if having issues with extension host crashing: 
+    * shift + command + p 
+    * enable all extensions 
+    * uninstall live-server 
+    * restart vscode 
 
 
 
