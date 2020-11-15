@@ -34,6 +34,8 @@
   * jest fb extension
   * tailwindcss intellisense / autocomplete 
   * docker extension pack 
+  * jest snippets
+  * jest 
 
 ## add settings json 
   * command + shift + p & "open settings.json"
