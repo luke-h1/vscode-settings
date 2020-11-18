@@ -6,7 +6,6 @@
   * import-cost 
   * path-intellisense
   * bracket-pair-colorizer
-  * material-icon-theme 
   * html-css-class-completion
   * live-sass
   * ES7 React/Redux/React-Native/JS snippets
