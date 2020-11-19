@@ -7,7 +7,6 @@
   * path-intellisense
   * bracket-pair-colorizer
   * html-css-class-completion
-  * live-sass
   * ES7 React/Redux/React-Native/JS snippets
   * vetur (vue tooling for VS code) 
   * git history 
@@ -22,16 +21,12 @@
   * auto-rename-tag
   * dotenv syntax 
   * robotframework
-  * RobotFramework Linter 
-  * Robotframework Debugger
-  * Robot Framework Intellisense
   * python extension pack
   * python 
   * styled-components intellisense / autocomplete
   * TSLint 
   * jest snippets
-  * jest fb extension
-  * tailwindcss intellisense / autocomplete 
+  * jest extension
   * docker extension pack 
   * jest snippets
   * jest 
@@ -47,8 +42,5 @@
     * uninstall live-server 
     * restart vscode 
 
-
-
 ## THEMES
-  * enkia.tokyo-night
   * Night Owl 
